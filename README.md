@@ -2,6 +2,7 @@
 qr code generator with wifi qr code generator 
 
 run this code in termux first time.
+
 pkg update
 pkg upgrade
 pkg install python
